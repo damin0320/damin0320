@@ -8,7 +8,6 @@
 - ⚡ I’m currently learning Django, SQL, server to be back-end developer
 - 🤔 2021 Goals : Having a good Job
 - 💥 My MBTI : 100% ISFJ
-- 👯 Fun facts : I'm a big fan of Girls's Generation and Redvelvet
 
 #### Connect with me
 - Velog : https://velog.io/@sinichy7
