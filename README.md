@@ -1,7 +1,7 @@
 ### Hi there, I'm Damin 👋
 ---
 
-#### I'm Junior Back-end Developer since 2021
+#### I'm Junior Front-end Developer since 2022
 ---
 
 - 🤔 2022 Goals : Having a good Job
