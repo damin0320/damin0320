@@ -4,9 +4,7 @@
 #### I'm Junior Back-end Developer since 2021
 ---
 
-- 🌱 I’m currently learning in Wecode 
-- ⚡ I’m currently learning Django, SQL, server to be back-end developer
-- 🤔 2021 Goals : Having a good Job
+- 🤔 2022 Goals : Having a good Job
 - 💥 My MBTI : 100% ISFJ
 
 #### Connect with me
@@ -15,7 +13,7 @@
 #### Languages and Tools:
 - VSC
 - Python
-- Django
+- JavaScript
 - Git
 - Mysql
 
