@@ -13,6 +13,7 @@
 #### Languages and Tools:
 - VSC
 - Python
+- React
 - JavaScript
 - Git
 - Mysql
