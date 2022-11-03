@@ -12,10 +12,8 @@
 
 #### Languages and Tools:
 - VSC
-- Python
-- React
+- React / Redux / Redux Toolkit
 - JavaScript
 - Git
-- Mysql
 
 
