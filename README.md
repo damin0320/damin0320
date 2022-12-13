@@ -14,6 +14,7 @@
 - VSC
 - React / Redux / Redux Toolkit
 - JavaScript
-- Git
+- Git / GitHub
+- Vercel
 
 
