@@ -1,10 +1,9 @@
 ### Hi there, I'm Damin 👋
 ---
 
-#### I'm Junior Front-end Developer since 2022
+#### I'm Junior QA since 2023
 ---
 
-- 🤔 2022 Goals : Having a good Job
 - 💥 My MBTI : 100% ISFJ
 
 #### Connect with me
